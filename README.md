@@ -29,6 +29,8 @@ Through this project we seek to offer a website that will accurately display inf
 ## Contributions
 If you have the wish to suggest ideas to contribute to this project, please be sure to contact us using the email below. 
 
-## Contact Info
-You can reach us at:
-freshavocado2020@gmail.com
+## About Us & Contact Information
+We are a team of four students majoring in Informatics from the University of Washington's Information School. This capstone project is a culmination of our learning experience at the iSchool. We will distill the knowledge and skills acquired in academic courses and apply them to a real-world project.
+
+Team Members: Ryan Dang, Daniel In, Harim Sanchez, Hilton Vo
+You can reach us at: freshavocado2020@gmail.com
