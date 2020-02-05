@@ -32,5 +32,5 @@ If you have the wish to suggest ideas to contribute to this project, please be s
 ## About Us & Contact Information
 We are a team of four students majoring in Informatics from the University of Washington's Information School. This capstone project is a culmination of our learning experience at the iSchool. We will distill the knowledge and skills acquired in academic courses and apply them to a real-world project.
 
-Team Members: Ryan Dang, Daniel In, Harim Sanchez, Hilton Vo
+Team Members: Ryan Dang, Daniel In, Harim Sanchez, Hilton Vo  
 You can reach us at: freshavocado2020@gmail.com
