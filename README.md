@@ -24,7 +24,7 @@ Through this project we seek to offer a website that will accurately display inf
 * A live chat feature between resource specialists and students
 * Personal essay help
 * Tips and tricks from current students in higher education and alumni
-* AMA sessions from former students
+* AMA sessions from former students and/or alumni
 
 ## Contributions
 If you have the wish to suggest ideas to contribute to this project, please be sure to contact us using the email below. 
