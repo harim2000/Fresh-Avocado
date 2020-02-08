@@ -1,7 +1,7 @@
 # Team Fresh Avocado
 
 ## Background
-Disadvantaged public high school juniors and seniors who come from first generation and low-income backgrounds have difficulty navigating the resources required to pursue higher education.
+Underprivileged public high school juniors and seniors who come from first generation and low-income backgrounds have difficulty navigating the resources required to pursue higher education.
 
 It is especially difficult for this population of students, as they often lack the information about the college application process and its specifics, such as cost, accessibility, and benefits. This population may also not know anyone from their family, or group of friends that has gone to college, so they experience more difficulty in finding resources and information related to the college application process. It’s intimidating to confront the process of discovering resources related to colleges while attempting to pursue higher education.
 
