@@ -19,7 +19,8 @@ How might last or second-to-last year students with financial or cultural hardsh
 
 ## Solution
 ### MVP
-Through this project we seek to offer a website that will accurately display information about post-secondary paths with the steps required for its visitors to know how to accomplish their goals of post-secondary education. This project also offers a way for studets to get in contact with mentors when they need questions answered. This website also display contact information of various organizations that students can reach out to for assistance with their questions. We will also develop a method to better organize all of the resources available to support the students
+Through this project, we seek to offer a website that will accurately display information about post-secondary paths with its steps required for the visitors of the site to gain a sense of understanding. We hope through informing people, we can give them the power to move forward in accomplishing their goals of post-secondary education. This project also offers a way for students to get in contact with mentors when they have questions related to life after high school—aiming to inspire students of potential pathways that they can go after. This website will also inform its viewers of contact information for various organizations that students can reach out to for assistance with more information. We will develop a method to better organize all of the resources available to support the students.
+
 ### Nice to have
 * A live chat feature between resource specialists and students
 * Personal essay help
