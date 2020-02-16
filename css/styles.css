@@ -1,0 +1,96 @@
+body{
+    background-color: #FBEEC1 ;
+    margin:0;
+}
+
+#menuBar{
+    background-color: #659DBD;
+    height: 125px;
+    width: 100%;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#links{
+    display: flex;
+    flex-direction: row;
+    margin:10px;   
+}
+
+
+.dropdownContent{
+    display:none;
+    position:absolute;
+    background-color: #f1f1f1;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+}
+
+.dropdownContent a{
+    color:black;
+    padding:12px 16px;
+    text-decoration: none;
+    display:block;
+}
+
+.dropdownContent a:hover{
+    background-color: #ddd;
+}
+.dropdown:hover .dropdownContent{
+    display: block;
+}
+
+button{
+    width:100px;
+    height: 50px;
+    background-color:#05052142;
+    color:white;
+    padding:0;
+    border-color: #00000057;
+    font-family: 'Lato', sans-serif;
+}
+
+a{
+    font-family: 'Lato', sans-serif;
+    font-size: 13px;
+}
+
+#links div{
+    margin:0 2px;
+}
+
+#titleContainer{
+    margin: 60px 219px;
+}
+
+#mainTextContainer{
+    margin: 50px;
+}
+
+#logo{
+    padding: 12.5px;
+    size: 100%;
+}
+
+.text{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    letter-spacing: -0.05em;
+
+    color: #333333;
+}
+
+.titleText{
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 77px;
+    text-align: center;
+}
+
+.mainText{
+    font-size: 24px;
+    line-height: 29px;
+}
