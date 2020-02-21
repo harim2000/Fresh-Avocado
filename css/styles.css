@@ -20,6 +20,17 @@ body{
     margin:10px;   
 }
 
+.topLinks{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.topLinks:hover{
+    color: #FBEEC1;
+}
+
 
 .dropdownContent{
     display:none;
@@ -69,7 +80,7 @@ a{
 }
 
 #mainTextContainer{
-    margin: 0 150px;
+    margin: 0 300px;
 }
 
 #logoContainer{
