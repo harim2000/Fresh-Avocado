@@ -111,6 +111,24 @@ a{
     display:none;
 }
 
+
+
+.teamContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.teamContainer div{
+    display: flex;
+    flex-direction: column;
+}
+
+.teamContainer img{
+    width:200px;
+    border-radius: 50%;
+}
+
 @media screen and (max-width:1415px){
     .titleText{
         font-size: 60px;
