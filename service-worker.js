@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fresh-avocado/home/precache-manifest.f54242ddc8865e3bad450a0c47bdeedf.js"
+  "/fresh-avocado/home/precache-manifest.89dce681fda9c20200ddd053d73f941c.js"
 );
 
 self.addEventListener('message', (event) => {
