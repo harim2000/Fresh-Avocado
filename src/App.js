@@ -12,7 +12,7 @@ export default class App extends Component{
       <Router basename={process.env.PUBLIC_URL+'/'}>
         <NavBar />
         <Switch>
-          <Route path='/' component={HomePage}/>
+          <Route path='/' exact component={HomePage}/>
           <Route path='/aboutUs' component={AboutUs}/>
         </Switch>
       </Router>
