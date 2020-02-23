@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4bf6bc5205a0b449eb8c30351b025d79",
+    "revision": "eaeafb31451b45487a2cc0d93ad65464",
     "url": "/fresh-avocado/index.html"
   },
   {
-    "revision": "a0376e41a8de87645f7b",
+    "revision": "68d036ac2a0bbfafc78a",
     "url": "/fresh-avocado/static/css/main.e9c518f6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fresh-avocado/static/js/2.fea08649.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a0376e41a8de87645f7b",
-    "url": "/fresh-avocado/static/js/main.9beea9e9.chunk.js"
+    "revision": "68d036ac2a0bbfafc78a",
+    "url": "/fresh-avocado/static/js/main.b095f468.chunk.js"
   },
   {
     "revision": "b6a764af05a20518d39a",
