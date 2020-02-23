@@ -9,7 +9,7 @@ export default class NavBar extends Component{
         return(
             <div className="NavBarContainer">
                 <div id="logoContainer">
-                    <Link to="/home" className="topLinks"><img id="logo" src={require("./images/avocado.png")} alt="avocado logo"/></Link>
+                    <Link to="/" className="topLinks"><img id="logo" src={require("./images/avocado.png")} alt="avocado logo"/></Link>
                 </div>
 
                 <div id="links">
