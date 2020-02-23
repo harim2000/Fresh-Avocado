@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/fresh-avocado/home/static/css/main.e9c518f6.chunk.css",
-    "main.js": "/fresh-avocado/home/static/js/main.7d0924ce.chunk.js",
-    "main.js.map": "/fresh-avocado/home/static/js/main.7d0924ce.chunk.js.map",
-    "runtime-main.js": "/fresh-avocado/home/static/js/runtime-main.07934731.js",
-    "runtime-main.js.map": "/fresh-avocado/home/static/js/runtime-main.07934731.js.map",
-    "static/js/2.fea08649.chunk.js": "/fresh-avocado/home/static/js/2.fea08649.chunk.js",
-    "static/js/2.fea08649.chunk.js.map": "/fresh-avocado/home/static/js/2.fea08649.chunk.js.map",
-    "index.html": "/fresh-avocado/home/index.html",
-    "precache-manifest.89dce681fda9c20200ddd053d73f941c.js": "/fresh-avocado/home/precache-manifest.89dce681fda9c20200ddd053d73f941c.js",
-    "service-worker.js": "/fresh-avocado/home/service-worker.js",
-    "static/css/main.e9c518f6.chunk.css.map": "/fresh-avocado/home/static/css/main.e9c518f6.chunk.css.map",
-    "static/js/2.fea08649.chunk.js.LICENSE.txt": "/fresh-avocado/home/static/js/2.fea08649.chunk.js.LICENSE.txt",
-    "static/media/daniel.jpg": "/fresh-avocado/home/static/media/daniel.7b2e77f3.jpg",
-    "static/media/harim.jpg": "/fresh-avocado/home/static/media/harim.845a4184.jpg",
-    "static/media/hilton.png": "/fresh-avocado/home/static/media/hilton.0c8f1056.png",
-    "static/media/ryan.png": "/fresh-avocado/home/static/media/ryan.ac846088.png"
+    "main.css": "/fresh-avocado/static/css/main.e9c518f6.chunk.css",
+    "main.js": "/fresh-avocado/static/js/main.9ddd7c37.chunk.js",
+    "main.js.map": "/fresh-avocado/static/js/main.9ddd7c37.chunk.js.map",
+    "runtime-main.js": "/fresh-avocado/static/js/runtime-main.45d9a014.js",
+    "runtime-main.js.map": "/fresh-avocado/static/js/runtime-main.45d9a014.js.map",
+    "static/js/2.fea08649.chunk.js": "/fresh-avocado/static/js/2.fea08649.chunk.js",
+    "static/js/2.fea08649.chunk.js.map": "/fresh-avocado/static/js/2.fea08649.chunk.js.map",
+    "index.html": "/fresh-avocado/index.html",
+    "precache-manifest.f7aed5e1127a3694731cdc0cdeb0c184.js": "/fresh-avocado/precache-manifest.f7aed5e1127a3694731cdc0cdeb0c184.js",
+    "service-worker.js": "/fresh-avocado/service-worker.js",
+    "static/css/main.e9c518f6.chunk.css.map": "/fresh-avocado/static/css/main.e9c518f6.chunk.css.map",
+    "static/js/2.fea08649.chunk.js.LICENSE.txt": "/fresh-avocado/static/js/2.fea08649.chunk.js.LICENSE.txt",
+    "static/media/daniel.jpg": "/fresh-avocado/static/media/daniel.7b2e77f3.jpg",
+    "static/media/harim.jpg": "/fresh-avocado/static/media/harim.845a4184.jpg",
+    "static/media/hilton.png": "/fresh-avocado/static/media/hilton.0c8f1056.png",
+    "static/media/ryan.png": "/fresh-avocado/static/media/ryan.ac846088.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.07934731.js",
+    "static/js/runtime-main.45d9a014.js",
     "static/js/2.fea08649.chunk.js",
     "static/css/main.e9c518f6.chunk.css",
-    "static/js/main.7d0924ce.chunk.js"
+    "static/js/main.9ddd7c37.chunk.js"
   ]
 }
