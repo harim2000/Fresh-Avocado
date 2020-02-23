@@ -1,0 +1,15 @@
+.bold{
+    font-weight: bold;
+}
+
+.teamContainer{
+    display: flex;
+    justify-content: space-around;
+
+    text-align: center;
+}
+
+.teamMember{
+    width:200px;
+    border-radius: 50%;
+}

@@ -1,0 +1,21 @@
+.NavBarContainer{
+    background-color: #659DBD;
+    height: 125px;
+
+    border-bottom: 3px solid rgba(81, 125, 151, 0.993);
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.topLinks{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 0 5px;
+}
+
+
+
