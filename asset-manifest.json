@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fresh-avocado/static/css/main.e9c518f6.chunk.css",
-    "main.js": "/fresh-avocado/static/js/main.e73ed39e.chunk.js",
-    "main.js.map": "/fresh-avocado/static/js/main.e73ed39e.chunk.js.map",
+    "main.js": "/fresh-avocado/static/js/main.9beea9e9.chunk.js",
+    "main.js.map": "/fresh-avocado/static/js/main.9beea9e9.chunk.js.map",
     "runtime-main.js": "/fresh-avocado/static/js/runtime-main.45d9a014.js",
     "runtime-main.js.map": "/fresh-avocado/static/js/runtime-main.45d9a014.js.map",
     "static/js/2.fea08649.chunk.js": "/fresh-avocado/static/js/2.fea08649.chunk.js",
     "static/js/2.fea08649.chunk.js.map": "/fresh-avocado/static/js/2.fea08649.chunk.js.map",
     "index.html": "/fresh-avocado/index.html",
-    "precache-manifest.6d3bef80ce22ea5b39ae6e8f43e55580.js": "/fresh-avocado/precache-manifest.6d3bef80ce22ea5b39ae6e8f43e55580.js",
+    "precache-manifest.d0f8bc0fd5ed4432e1bf12e0b96c00da.js": "/fresh-avocado/precache-manifest.d0f8bc0fd5ed4432e1bf12e0b96c00da.js",
     "service-worker.js": "/fresh-avocado/service-worker.js",
     "static/css/main.e9c518f6.chunk.css.map": "/fresh-avocado/static/css/main.e9c518f6.chunk.css.map",
     "static/js/2.fea08649.chunk.js.LICENSE.txt": "/fresh-avocado/static/js/2.fea08649.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.45d9a014.js",
     "static/js/2.fea08649.chunk.js",
     "static/css/main.e9c518f6.chunk.css",
-    "static/js/main.e73ed39e.chunk.js"
+    "static/js/main.9beea9e9.chunk.js"
   ]
 }
