@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eaeafb31451b45487a2cc0d93ad65464",
+    "revision": "ab2228b7300af6597f9c9dd7791db2dc",
     "url": "/fresh-avocado/index.html"
   },
   {
-    "revision": "68d036ac2a0bbfafc78a",
-    "url": "/fresh-avocado/static/css/main.e9c518f6.chunk.css"
+    "revision": "3a93a4abe13fd25cf249",
+    "url": "/fresh-avocado/static/css/main.5aded16c.chunk.css"
   },
   {
-    "revision": "b5abcc3335dc390cf92b",
-    "url": "/fresh-avocado/static/js/2.fea08649.chunk.js"
+    "revision": "5dda0456336adbc4d26a",
+    "url": "/fresh-avocado/static/js/2.acbae53e.chunk.js"
   },
   {
-    "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/fresh-avocado/static/js/2.fea08649.chunk.js.LICENSE.txt"
+    "revision": "3adc01bea76e7956dc3633ee898f6936",
+    "url": "/fresh-avocado/static/js/2.acbae53e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "68d036ac2a0bbfafc78a",
-    "url": "/fresh-avocado/static/js/main.b095f468.chunk.js"
+    "revision": "3a93a4abe13fd25cf249",
+    "url": "/fresh-avocado/static/js/main.832d4623.chunk.js"
   },
   {
     "revision": "b6a764af05a20518d39a",
