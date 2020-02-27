@@ -1,6 +1,6 @@
 # Team Fresh Avocado
 
-## Landing Page
+## Landing Page (WIP)
 https://harim2000.github.io/fresh-avocado/
 
 ## Background
