@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/fresh-avocado/static/css/main.5aded16c.chunk.css",
-    "main.js": "/fresh-avocado/static/js/main.832d4623.chunk.js",
-    "main.js.map": "/fresh-avocado/static/js/main.832d4623.chunk.js.map",
+    "main.css": "/fresh-avocado/static/css/main.b237b53f.chunk.css",
+    "main.js": "/fresh-avocado/static/js/main.64927a64.chunk.js",
+    "main.js.map": "/fresh-avocado/static/js/main.64927a64.chunk.js.map",
     "runtime-main.js": "/fresh-avocado/static/js/runtime-main.45d9a014.js",
     "runtime-main.js.map": "/fresh-avocado/static/js/runtime-main.45d9a014.js.map",
-    "static/js/2.acbae53e.chunk.js": "/fresh-avocado/static/js/2.acbae53e.chunk.js",
-    "static/js/2.acbae53e.chunk.js.map": "/fresh-avocado/static/js/2.acbae53e.chunk.js.map",
+    "static/js/2.99475be7.chunk.js": "/fresh-avocado/static/js/2.99475be7.chunk.js",
+    "static/js/2.99475be7.chunk.js.map": "/fresh-avocado/static/js/2.99475be7.chunk.js.map",
     "index.html": "/fresh-avocado/index.html",
-    "precache-manifest.63fa4b4b82c4c6455c4b5ac61079f761.js": "/fresh-avocado/precache-manifest.63fa4b4b82c4c6455c4b5ac61079f761.js",
+    "precache-manifest.69e8963d0a31b944ca87e92d2c7b1dc1.js": "/fresh-avocado/precache-manifest.69e8963d0a31b944ca87e92d2c7b1dc1.js",
     "service-worker.js": "/fresh-avocado/service-worker.js",
-    "static/css/main.5aded16c.chunk.css.map": "/fresh-avocado/static/css/main.5aded16c.chunk.css.map",
-    "static/js/2.acbae53e.chunk.js.LICENSE.txt": "/fresh-avocado/static/js/2.acbae53e.chunk.js.LICENSE.txt",
+    "static/css/main.b237b53f.chunk.css.map": "/fresh-avocado/static/css/main.b237b53f.chunk.css.map",
+    "static/js/2.99475be7.chunk.js.LICENSE.txt": "/fresh-avocado/static/js/2.99475be7.chunk.js.LICENSE.txt",
+    "static/media/Dream-Project.jpg": "/fresh-avocado/static/media/Dream-Project.eecae0c7.jpg",
+    "static/media/background.jpg": "/fresh-avocado/static/media/background.7bbffe97.jpg",
     "static/media/daniel.jpg": "/fresh-avocado/static/media/daniel.7b2e77f3.jpg",
     "static/media/harim.jpg": "/fresh-avocado/static/media/harim.845a4184.jpg",
     "static/media/hilton.png": "/fresh-avocado/static/media/hilton.0c8f1056.png",
+    "static/media/iSchoolLogo.png": "/fresh-avocado/static/media/iSchoolLogo.4960fd98.png",
     "static/media/ryan.png": "/fresh-avocado/static/media/ryan.ac846088.png"
   },
   "entrypoints": [
     "static/js/runtime-main.45d9a014.js",
-    "static/js/2.acbae53e.chunk.js",
-    "static/css/main.5aded16c.chunk.css",
-    "static/js/main.832d4623.chunk.js"
+    "static/js/2.99475be7.chunk.js",
+    "static/css/main.b237b53f.chunk.css",
+    "static/js/main.64927a64.chunk.js"
   ]
 }
