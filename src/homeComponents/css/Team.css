@@ -1,0 +1,9 @@
+.team{
+    background: #C4A256;
+}
+
+.teamContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

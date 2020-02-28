@@ -1,30 +1,33 @@
-import React, {Component} from 'react';
-import {homePageText} from "./text.json";
-import './HomePage.css'
+import React, { Component } from 'react';
+import './css/HomePage.css'
+
+import Background from"./homeComponents/Background.js";
+import Problem from "./homeComponents/Problem.js"
+import Solution from "./homeComponents/Solution.js"
+import AboutUs from "./homeComponents/AboutUs.js"
+import Team from "./homeComponents/Team.js"
+import ContactUs from "./homeComponents/ContactUs.js"
 
 export default class HomePage extends Component{
 
     render(){
-
-        var homePageLines = [];
-        var lines = homePageText.split("\n")
-        for (var line = 0; line < lines.length; line++){
-            homePageLines.push(<p className="text mainText">{lines[line]}</p>)
-        }
-
+   
         return(
-            <div className="wholeContainer">
+            <div id="page-wrap" className="mainContainer">
                 <div className="titleContainer">
-                    <h1 className="title text">
-                        Empowering Students with information 
-                        towards a better future
+                    <h1 className="title">
+                        Empowering Students with information towards a better future
                     </h1>
                 </div>
-                <div className="mainTextContainer">
-                    {homePageLines}
-                </div>
+                <Background />
+                <Problem />
+                <Solution /> 
+                <AboutUs />               
+                <Team />
+                <ContactUs />
+
             </div>
         );
     }
-
+    
 }

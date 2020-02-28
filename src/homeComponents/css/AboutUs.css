@@ -1,0 +1,15 @@
+.aboutUs{
+    background:rgba(160, 94, 94, 0.39);
+}
+
+.imageContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.iSchoolLogo{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px black solid;
+}

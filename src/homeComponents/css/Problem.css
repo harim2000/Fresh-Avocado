@@ -1,0 +1,26 @@
+.problem{
+    background-color: #C4A256;
+}
+
+.mainProblemContainer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.dreamImg{
+    padding:10px;
+    width: 100%;
+}
+
+@media screen and (min-width:1024px){
+
+    .mainProblemContainer{
+        flex-direction: row;
+    }
+    
+    .dreamImg{
+        width:40%;
+    }
+
+}
