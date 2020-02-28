@@ -19,13 +19,14 @@ export default class NavBar extends Component{
                     pageWrapId={"page-wrap"}
                     outerContainerId={"wholeApp"}
                 >
+                    <Link className="link" to="/"></Link>
                     <Link className="link" to="/resources">Resources</Link>
-                    <a className="link" href="/#Background" >Project Background</a>
-                    <a className="link" href="/#Problem">Problem Statement</a>
-                    <a className="link" href="/#Solution">Solution</a>
-                    <a className="link" href="/#AboutUs">About Us</a>
-                    <a className="link" href="/#Team">The Team</a>
-                    <a className="link" href="/#ContactUs">Contact Us</a>
+                    <Link className="link" to="/#Background" >Project Background</Link>
+                    <Link className="link" to="/#Problem">Problem Statement</Link>
+                    <Link className="link" to="/#Solution">Solution</Link>
+                    <Link className="link" to="/#AboutUs">About Us</Link>
+                    <Link className="link" to="/#Team">The Team</Link>
+                    <Link className="link" href="/#ContactUs">Contact Us</Link>
                     <a onClick={ this.showSettings } className="menu-item--small" href=""></a>
                 </Menu>
             </div>
